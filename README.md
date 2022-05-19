@@ -1,5 +1,5 @@
-*I'm a full stack web developer with 6+ years professional experience. Currently, I play with teamleader role and building enterprise applications using C#.NET, ASP.NET(Webforms,Mvc,WebApi), MSSQL, MySQL, HTML, CSS(Sass,Bootstrap), Javascript(Jquery,Angular,React,Typescript).
-I :heart_eyes: a challenge and coding.*
+*I'm a full stack web developer with 6+ years professional experience. Currently, I play with teamleader role and building enterprise applications using C#.NET, ASP.NET(Webforms,Mvc,WebApi), MSSQL, MySQL, HTML, CSS(Sass,Bootstrap), Javascript (Jquery,Angular,React,Typescript).*
+*I love a challenge and coding.*
 
 ## GitHub Stats
 

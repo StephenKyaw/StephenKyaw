@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 
 <div  style="display: flex !important;width: 100% !important;justify-content:space-between !important;margin: 20px auto;">    
 <a href="https://github.com/kyawmyoaung-dev/jdatagrid">
-  <img align="left" width='30%' src="https://github-readme-stats.vercel.app/api/pin/?username=kyawmyoaung-dev&repo=jdatagrid&theme=discord_old_blurple" />
+  <img align="left" width='30%' src="https://github-readme-stats.vercel.app/api/pin/?username=kyawmyoaung-dev&repo=jdatagrid&theme=discord_old_blurple&cache_seconds=ESHOP" />
 </a>
   
 <a href="https://github.com/kyawmyoaung-dev/eShop">
  <img align="left" width='30%' src="https://github-readme-stats.vercel.app/api/pin/?username=kyawmyoaung-dev&repo=eShop&theme=react" />
 </a>
   <a href="https://github.com/kyawmyoaung-dev/ts_template">
- <img align="left" width='30%' src="https://github-readme-stats.vercel.app/api/pin/?username=kyawmyoaung-dev&repo=ts_template&theme=dracula" />
+ <img align="left" width='30%' src="https://github-readme-stats.vercel.app/api/pin/?username=kyawmyoaung-dev&repo=ts_template&theme=dracula&show_owner=false" />
 </a>
  </div>

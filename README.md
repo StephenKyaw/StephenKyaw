@@ -4,7 +4,7 @@
 ## GitHub Stats
 
 <a href="https://github.com/kyawmyoaung-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawmyoaung-dev&show_icons=true&theme=shades-of-purple&count_private=true" alt="kyawmyoaung-dev's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawmyoaung-dev&theme=shades-of-purple&layout=compact" 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyawmyoaung-dev&show_icons=true&theme=noctis_minimus&count_private=true" alt="kyawmyoaung-dev's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyawmyoaung-dev&theme=noctis_minimus&layout=compact" 
     alt="kyawmyoaung-dev GitHub Top Languages" />
 </a>

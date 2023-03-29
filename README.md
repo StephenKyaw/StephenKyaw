@@ -3,8 +3,8 @@
 
 ## GitHub Stats
 
-<a href="https://github.com/kyawmyoaung-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephenKyaw&show_icons=true&theme=noctis_minimus&count_private=true" alt="kyawmyoaung-dev's GitHub Stats" />
+<a href="https://github.com/StephenKyaw">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StephenKyaw&show_icons=true&theme=noctis_minimus&count_private=true" alt="StephenKyaw's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephenKyaw&theme=noctis_minimus&layout=compact" 
-    alt="kyawmyoaung-dev GitHub Top Languages" />
+    alt="StephenKyaw GitHub Top Languages" />
 </a>

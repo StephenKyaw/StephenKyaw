@@ -1,4 +1,4 @@
-*I'm a full stack web developer with 8+ years professional experience. Currently, I play with teamleader role and building enterprise applications using C#.NET, ASP.NET(Webforms,Mvc,WebApi), MSSQL, MySQL, HTML, CSS(Sass,Bootstrap), Javascript (Jquery, Angular, React, Typescript).*
+*Highly skilled and motivated software developer with over 9 years of experience in developing enterprise web applications using C#, ASP.NET, and the Microsoft Platform. Proficient in designing and implementing complex systems using object-oriented programming principles and solution architecture. Excited about expanding expertise into cloud-native application development and AI technologies for future career growth. Possess excellent problem-solving skills and thrive in collaborative team environments. Enthusiastic about challenges, coding, and continuous learning.*
 *I love a challenge and coding.*
 
 ## GitHub Stats
